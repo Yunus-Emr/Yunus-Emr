@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **C#,Angular**
 
-- 📫 How to reach me **yunusemreakca58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
